@@ -1,5 +1,7 @@
 ### Hey! 👋
 
+![TadashiKanda Banner Image](./Banner.png)
+
 <p align="left"> 
   <a href="https://github.com/TadashiKanda/TadashiKanda/">
     <img src="https://komarev.com/ghpvc/?username=TadashiKanda" alt="TadashiKanda" />
@@ -16,6 +18,8 @@ __angularJS__
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadashiKanda)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TadashiKanda)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **TadashiKanda/TadashiKanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
