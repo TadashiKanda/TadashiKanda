@@ -21,7 +21,7 @@
 <h2> 👨‍💻 I’m currently learning </h2>
 
 - angularJS
-- kubernetes/Docker  
+- Kubernetes/Docker  
 - Machine learning  
 
 
