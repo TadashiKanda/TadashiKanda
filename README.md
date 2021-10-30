@@ -14,6 +14,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tadashikanda" alt="tadashikanda" /></a> </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadashiKanda&show_icons=true)  
+
 <h2>🔭 I’m currently working on Network Engineer</h2><br>
 
 <h2> 👨‍💻 I’m currently learning </h2>
