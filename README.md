@@ -1,7 +1,7 @@
-![TadashiKanda Banner Image](./Banner.png)
+![nw-engineer Banner Image](./Banner.png)
 
 <p align="left"> 
-  <a href="https://github.com/TadashiKanda/TadashiKanda/">
+  <a href="https://github.com/nw-engineer/nw-engineer/">
     <img src="https://komarev.com/ghpvc/?username=nw-engineer" alt="nw-engineer" />
   </a>
   <a href="https://github.com/nw-engineer">
