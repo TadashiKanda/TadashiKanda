@@ -2,19 +2,19 @@
 
 <p align="left"> 
   <a href="https://github.com/TadashiKanda/TadashiKanda/">
-    <img src="https://komarev.com/ghpvc/?username=TadashiKanda" alt="TadashiKanda" />
+    <img src="https://komarev.com/ghpvc/?username=nw-engineer" alt="nw-engineer" />
   </a>
-  <a href="https://github.com/TadashiKanda">
-    <img height="20" src="https://img.shields.io/github/followers/TadashiKanda?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/nw-engineer">
+    <img height="20" src="https://img.shields.io/github/followers/nw-engineer?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
-<h1 align="left">Hi 👋, I'm Tadashi Kanda</h1><br>
+<h1 align="left">Hi 👋, I'm nw-engineer</h1><br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tadashikanda" alt="tadashikanda" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nw-engineer" alt="nw-engineer" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadashiKanda&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nw-engineer&show_icons=true)  
 
 <h2>🔭 I’m currently working on Network Engineer</h2><br>
 
